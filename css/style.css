@@ -660,6 +660,7 @@ body.hidden {
 .footer__form-button {
     background: none;
     border: none;
+    cursor: pointer;
 }
 
 .footer-input {
@@ -676,6 +677,7 @@ body.hidden {
 .footer__social {
     display: -webkit-box;
     display: -ms-flexbox;
+    cursor: pointer;
     display: flex;
     gap: 20px;
     color: var(--gray8f);
