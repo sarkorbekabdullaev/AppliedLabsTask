@@ -658,6 +658,7 @@ body.hidden {
 }
 
 .footer__form-button {
+    background: none;
     border: none;
 }
 
@@ -712,6 +713,7 @@ body.hidden {
     display: none;
     border: none;
     background: none;
+    color: var(--black);
     margin-top: -29px;
 }
 
